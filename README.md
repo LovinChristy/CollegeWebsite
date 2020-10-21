@@ -8,8 +8,7 @@
   
   Due to increased use of the internet in the decision-making process and selection of universities by potential students, websites play important role in student decisions to consider and attend any specific university. Since utilization of the internet is more important to the younger generation than older students, College must possess attractive and clearly understood webpage with readily navigable information on such characteristics as programs, course offerings, location, and relevant accreditations. This is critically important as visiting the website and what was found there was a precursor to a decision to visit the campus. This project is aimed at developing website that will help the users to access the information instantly.
 
-																																			MODULE SPECIFICATION
-
+																				
 The project “Website Creation For An Educational Institution (VBC)” provides a username and password to the user, approved by Administrator of the college. The project is divided into six main modules:
 
 •	Administrator
